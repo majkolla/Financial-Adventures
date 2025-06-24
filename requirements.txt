@@ -5,3 +5,4 @@ pandas
 torch 
 PyWavelets 
 scikit-learn
+yfinance
